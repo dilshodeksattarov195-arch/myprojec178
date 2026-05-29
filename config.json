@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailsncrypt",
+        "uuid": 1544150,
+        "checksum": "2lrm"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
